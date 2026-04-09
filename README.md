@@ -1,28 +1,36 @@
-# ransomware-detection-simulation
-Simulated ransomware attack in a controlled lab environment to analyze malware behavior, detect threats, and implement incident response strategies.
-🔐 Ransomware Detection and Response Simulation
+# 🔐 AI-Powered Ransomware Detection System
 
-This project simulates a ransomware attack in a controlled lab environment to analyze malware behavior and evaluate detection and response techniques.
+This project demonstrates a behavior-based ransomware detection system enhanced with basic AI-driven log analysis.
 
-📌 Objectives
-Understand ransomware attack patterns
-Identify indicators of compromise (IOC)
-Practice incident response strategies
-🛠️ Tools Used
-Wireshark
-Sysinternals Suite
-Kali Linux
-Virtual Machines
-🔍 Key Activities
-Monitored network traffic to detect suspicious activity
-Analyzed system behavior during simulated attack
-Identified unusual file encryption patterns
-Documented attack lifecycle and response actions
-🚨 Incident Response 
-Isolated affected system
-Analyzed logs and processes
-Performed partial recovery using backups
-📊 Outcome
-Gained hands-on experience in threat detection
-Improved understanding of real-world ransomware behavior
-Developed basic incident response workflow
+## 🚀 Features
+- Real-time file monitoring
+- Activity logging system
+- AI-based suspicious pattern detection
+- Incident response simulation
+
+## 🛠️ Tech Stack
+- Python
+- File System Monitoring
+- Basic AI (Pattern Matching Logic)
+- Cybersecurity Concepts
+
+## 🧠 How It Works
+1. Monitors file changes in real-time
+2. Logs suspicious activity
+3. AI module analyzes logs for ransomware patterns
+4. Flags potential threats
+
+## 🔍 Detection Logic
+- Rapid file changes
+- Suspicious file extensions (.enc, .crypt)
+- Unusual file behavior patterns
+
+## 📊 Outcome
+- Simulated real-world ransomware detection workflow
+- Implemented automated threat detection logic
+- Demonstrated integration of AI in cybersecurity
+
+## 🔮 Future Improvements
+- Machine Learning-based anomaly detection
+- Integration with SIEM tools
+- Real-time alert dashboard
